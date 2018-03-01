@@ -1,0 +1,41 @@
+body {
+	color: #fff;
+	background-color: #000;
+	font: Verdana;
+	font-size: 20px;
+}
+.contactItem {
+	display:inline-block;
+	width: 300px;
+	text-align: center;
+	margin-bottom: 30px;
+
+}
+.contactImage {
+	width: 125px;
+	height: 125px;
+}
+.contactsList {
+	width: 905px;
+	margin: 0 auto;
+}
+.contactForm {
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.contactItem p {
+	font-size: 25px;
+}
+ a:link {
+	text-decoration: none;
+	color:#fff;
+}
+ a:visited {
+	text-decoration: none;
+	color:#fff;
+}
+a:hover {
+	text-decoration: underline;
+	color:#f00;
+}
